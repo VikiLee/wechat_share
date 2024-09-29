@@ -32,8 +32,8 @@
         <mxCell id="YTkZB2badwiFSA-khm-u-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="YTkZB2badwiFSA-khm-u-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="从后端获取当前页面灰度标识：grayFlag" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="从后端获取当前页面/URL灰度标识：grayFlag" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="185" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YTkZB2badwiFSA-khm-u-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YTkZB2badwiFSA-khm-u-4" target="YTkZB2badwiFSA-khm-u-6">
           <mxGeometry relative="1" as="geometry" />
@@ -69,8 +69,8 @@
         <mxCell id="YTkZB2badwiFSA-khm-u-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YTkZB2badwiFSA-khm-u-27" target="YTkZB2badwiFSA-khm-u-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YTkZB2badwiFSA-khm-u-27" value="从后端获取当前页面灰度标识：grayFlag" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="321" y="408" width="120" height="40" as="geometry" />
+        <mxCell id="YTkZB2badwiFSA-khm-u-27" value="从后端获取当前页面/URL灰度标识：grayFlag" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="321" y="404" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="YTkZB2badwiFSA-khm-u-28" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YTkZB2badwiFSA-khm-u-32" target="YTkZB2badwiFSA-khm-u-34">
           <mxGeometry relative="1" as="geometry" />
